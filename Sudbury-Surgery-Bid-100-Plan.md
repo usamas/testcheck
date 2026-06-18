@@ -4,14 +4,6 @@
 **Deadline:** 29 June 2026, 12:00 | **Service start:** 1 November 2026  
 **Target:** Excellent (10/10) on all 20 weighted questions → **100% quality score**
 
-## Bid documents
-
-| Document | Purpose |
-|----------|---------|
-| **This file** | Execution plan — scoring strategy, question approach, timeline, red-team checklist |
-| [Local-Data-Research-Brief.md](Sudbury%20Bid%20-%20High%20Med%20Consortium/00%20-%20Working/Local-Data-Research-Brief.md) | Verified local data, KPI maths, gaps, question-to-data map |
-| [MOI-Gaps-Action-Log.md](Sudbury%20Bid%20-%20High%20Med%20Consortium/00%20-%20Working/MOI-Gaps-Action-Log.md) | Clarification chase list and NHSolutions handover requests |
-
 ---
 
 ## Success definition
@@ -93,8 +85,6 @@ Derived from [Isleworth 5B v4](Previous%20bid%20for%20Isleworth/Document%205%20B
 
 ## Public evidence bank (research now)
 
-Full verified data, gaps, and question-to-data map: [Local-Data-Research-Brief.md](Sudbury%20Bid%20-%20High%20Med%20Consortium/00%20-%20Working/Local-Data-Research-Brief.md).
-
 ### Practice profile
 - **ODS E84685** — Sudbury Primary Care Centre, Vale Farm, Watford Road, Wembley HA0 3HG
 - **List size:** 7,788 (ITT/MOI Apr 2026); practice board 7,949 (late 2024)
@@ -133,7 +123,7 @@ Full verified data, gaps, and question-to-data map: [Local-Data-Research-Brief.m
 
 ## Data still required (do not fabricate)
 
-Full gap list and chase actions: [MOI-Gaps-Action-Log.md](Sudbury%20Bid%20-%20High%20Med%20Consortium/00%20-%20Working/MOI-Gaps-Action-Log.md). Summary:
+Chase via MOI, NHSolutions handover, and [clarification log](Sudbury%20surgery%20/Clarification%20logs/Lot%204%20Sudbury%20Surgery%20-%20Clarification%20Log%20v1.0.xlsx):
 
 | Category | Required for | Source |
 |----------|--------------|--------|
