@@ -14,7 +14,7 @@ from docx.shared import Pt
 
 HERE = os.path.dirname(os.path.abspath(__file__))
 ROOT = os.path.normpath(os.path.join(HERE, "..", "..", ".."))
-TEMPLATE = os.path.join(ROOT, "Sudbury surgery ", "Document 5 A - Selection Questionnaire (3).docx")
+TEMPLATE = os.path.join(ROOT, "Sudbury surgery", "Document 5 A - Selection Questionnaire (3).docx")
 TRD = os.path.normpath(os.path.join(HERE, "..", "..", "01 - Tender Response Documents"))
 
 # Standard compliant answers shared by both members

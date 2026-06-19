@@ -7,7 +7,7 @@ from docx.shared import Pt
 
 HERE = os.path.dirname(os.path.abspath(__file__))
 ROOT = os.path.normpath(os.path.join(HERE, "..", "..", ".."))
-TEMPLATE = os.path.join(ROOT, "Sudbury surgery ", "Document 5 F - Form of Offer and Declarations.docx")
+TEMPLATE = os.path.join(ROOT, "Sudbury surgery", "Document 5 F - Form of Offer and Declarations.docx")
 TRD = os.path.normpath(os.path.join(HERE, "..", "..", "01 - Tender Response Documents"))
 OUT = os.path.join(TRD, "Document 5F - Form of Offer and Declarations.docx")
 

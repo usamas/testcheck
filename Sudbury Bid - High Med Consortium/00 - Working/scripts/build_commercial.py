@@ -12,7 +12,7 @@ import openpyxl
 
 HERE = os.path.dirname(os.path.abspath(__file__))
 ROOT = os.path.normpath(os.path.join(HERE, "..", "..", ".."))
-SRC = os.path.join(ROOT, "Sudbury surgery ")
+SRC = os.path.join(ROOT, "Sudbury surgery")
 TRD = os.path.normpath(os.path.join(HERE, "..", "..", "01 - Tender Response Documents"))
 
 D_TPL = os.path.join(SRC, "Document 5 D - Commercial Schedule for Lot 4 Sudbury Surgery.xlsx")

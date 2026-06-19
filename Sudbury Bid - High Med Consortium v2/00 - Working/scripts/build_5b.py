@@ -12,7 +12,7 @@ import lib_5b
 HERE = os.path.dirname(os.path.abspath(__file__))
 ROOT = os.path.normpath(os.path.join(HERE, "..", "..", ".."))
 TEMPLATE = os.path.join(
-    ROOT, "Sudbury surgery ",
+    ROOT, "Sudbury surgery",
     "Document 5 B - Quality and Technical Questions - Lot 4 Sudbury Surgery v2.docx")
 TRD = os.path.normpath(os.path.join(HERE, "..", "..", "01 - Tender Response Documents"))
 SRC = os.path.join(TRD, "Document 5B - Quality and Technical Questions v2.docx")

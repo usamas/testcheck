@@ -18,8 +18,8 @@
 
 | Rule | Implication |
 |------|-------------|
-| Stage 2 quality = **100%** of scored evaluation ([Document 1](Sudbury%20surgery%20/Document%201%20-%20Instructions%20and%20Guidance.docx) §19.1) | Commercial (5D/5C) is pass/fail only — **all competitive advantage is quality** |
-| **Excellent (10)** = in-depth detail, robust evidence, lessons learnt, demonstrable added value ([5B v2](Sudbury%20surgery%20/Document%205%20B%20-%20Quality%20and%20Technical%20Questions%20-%20Lot%204%20Sudbury%20Surgery%20v2.docx)) | Target **10/10 on every weighted question** |
+| Stage 2 quality = **100%** of scored evaluation ([Document 1](Sudbury%20surgery/Document%201%20-%20Instructions%20and%20Guidance.docx) §19.1) | Commercial (5D/5C) is pass/fail only — **all competitive advantage is quality** |
+| **Excellent (10)** = in-depth detail, robust evidence, lessons learnt, demonstrable added value ([5B v2](Sudbury%20surgery/Document%205%20B%20-%20Quality%20and%20Technical%20Questions%20-%20Lot%204%20Sudbury%20Surgery%20v2.docx)) | Target **10/10 on every weighted question** |
 | Minimum **Limited (2)** per question; **0 = elimination** | Red-team must verify every bullet in every question is answered |
 | **No cross-referencing** between questions (5B v2) | Duplicate evidence inline; Sudbury-branded attachments only |
 
@@ -235,7 +235,7 @@ Sudbury Bid - High Med Consortium/
 └── 04 - Submission Checklist/
 ```
 
-**Sources:** [5B v2](Sudbury%20surgery%20/Document%205%20B%20-%20Quality%20and%20Technical%20Questions%20-%20Lot%204%20Sudbury%20Surgery%20v2.docx), [Isleworth bid](Previous%20bid%20for%20Isleworth/), [TUPE data](TUPE/Document%204%20-%20TUPE%20Information%20for%20Lot%204%20Sudbury%20Surgery%20-%20UNREDACTED.xlsx)
+**Sources:** [5B v2](Sudbury%20surgery/Document%205%20B%20-%20Quality%20and%20Technical%20Questions%20-%20Lot%204%20Sudbury%20Surgery%20v2.docx), [Isleworth bid](Previous%20bid%20for%20Isleworth/), [TUPE data](TUPE/Document%204%20-%20TUPE%20Information%20for%20Lot%204%20Sudbury%20Surgery%20-%20UNREDACTED.xlsx)
 
 ---
 

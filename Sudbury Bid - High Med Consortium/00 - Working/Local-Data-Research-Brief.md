@@ -194,9 +194,9 @@ Historical QOF achievement for E84685 is searchable at [qof.digital.nhs.uk](http
 
 | Document | Path |
 |----------|------|
-| Service Specification + MOI | `Sudbury surgery /Document 2 - Service Specification for Lot 4 Sudbury Surgery.docx` |
-| Quality questions | `Sudbury surgery /Document 5 B - Quality and Technical Questions - Lot 4 Sudbury Surgery v2.docx` |
-| Clarification log | `Sudbury surgery /Clarification logs/Lot 4 Sudbury Surgery - Clarification Log v1.0.xlsx` |
+| Service Specification + MOI | `Sudbury surgery/Document 2 - Service Specification for Lot 4 Sudbury Surgery.docx` |
+| Quality questions | `Sudbury surgery/Document 5 B - Quality and Technical Questions - Lot 4 Sudbury Surgery v2.docx` |
+| Clarification log | `Sudbury surgery/Clarification logs/Lot 4 Sudbury Surgery - Clarification Log v1.0.xlsx` |
 | TUPE (unredacted) | `TUPE/Document 4 - TUPE Information for Lot 4 Sudbury Surgery - UNREDACTED.xlsx` |
 | Isleworth reference bid | `Previous bid for Isleworth/` |
 | Bid execution plan | `Sudbury-Surgery-Bid-100-Plan.md` |
